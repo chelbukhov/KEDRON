@@ -1,0 +1,16 @@
+{
+  "name": "tbot",
+  "version": "1.0.0",
+  "description": "Telegram bot web3 example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "web3": "^1.2.5"
+  },
+  "devDependencies": {}
+}
